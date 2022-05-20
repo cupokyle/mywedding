@@ -20,14 +20,14 @@ export default class MainWrapper extends React.Component {
         </div>
         <div className="noMargin noPadding col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/us.jpg" alt="engagement"/>
-            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/tvrory.jpg" alt="tv and rory"/>
-            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/destiny.jpg" alt="destiny"/>
-            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/uncharted.jpg" alt="uncharted"/>
+            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/us.jpg" alt="tv and rory"/>
+            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/us.jpg" alt="destiny"/>
+            <img className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 noMargin noPadding" src="./images/us.jpg" alt="uncharted"/>
           </div>
         <div className="padding20 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <hr/>
           <h2 className='vonFontSimple gradientFont'>How We Met</h2>
-          <img src="./images/match.jpg" height="300px" className="roundPic partyPhoto" alt="illustration of us"/>
+          <img src="./images/us.jpg" height="300px" className="roundPic partyPhoto" alt="illustration of us"/>
           <br/>
           <p className="padding20">A tale as old as time: boy downloads Tinder, boy swipes right, other boy swipes right...
           <br/>We knew instantly that we were a match and the rest is history!</p>

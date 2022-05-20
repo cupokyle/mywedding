@@ -8,7 +8,7 @@ export default class Footer extends React.Component {
 
   render() {
     return (
-      <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 aniBack whiteText text-center" style={{padding:'20px', color:'#8debc9'}}>
+      <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 whiteText text-center" style={{padding:'20px'}}>
       	<div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
           <h4 className="vonFontSimple">ABOUT US</h4>
           <hr/>
